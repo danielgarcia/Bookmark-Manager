@@ -1,11 +1,6 @@
 Bookmark-Manager
 ================
 
-Demo Link
--------
-[Demo Link](http://www.slacktrade.com)
-
-
 Proposed instructions
 -------
 
